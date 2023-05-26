@@ -1,0 +1,6 @@
+.cardPersonaje{
+    border-style: solid !important;
+    border-width: 0.3em !important;
+    border-color: rgb(128, 0, 232) !important;
+    width: 75%;
+}

@@ -1,0 +1,12 @@
+.dropdownItem{
+    border-radius: 0.25em;
+}
+
+.dropdownItem:hover {
+    background-color:rgb(177, 179, 181);
+}
+
+.dropdownBox{
+    border-radius: 0.5em;
+    box-shadow:0 0 .15em 0.03em rgb(88, 152, 255);
+}

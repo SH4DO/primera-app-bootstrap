@@ -1,0 +1,8 @@
+.tarjeta {
+    background-color:rgb(55, 55, 55) !important ;
+    color: aquamarine ;
+}
+
+.tarjeta:hover{
+    border: .5em solid white;
+}

@@ -1,0 +1,7 @@
+.menu{
+    color:rgba(230, 230, 230, 0.911) !important;
+}
+.menu:hover{
+    text-decoration-line: underline;
+    color: rgb(255, 255, 255) !important;
+}
