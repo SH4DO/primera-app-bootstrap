@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e41b30c.css",
-    "main.js": "/static/js/main.622ae771.js",
-    "static/js/787.dba7b573.chunk.js": "/static/js/787.dba7b573.chunk.js",
-    "static/media/RickandMortySearch.png": "/static/media/RickandMortySearch.7a09bf640b554c394031.png",
-    "static/media/RickandMorty3.jpg": "/static/media/RickandMorty3.1ace7ee9d3d959c7be2f.jpg",
-    "static/media/RickandMorty1.jpg": "/static/media/RickandMorty1.2b0f427254e69c93e8e9.jpg",
-    "static/media/RickandMort2.jpg": "/static/media/RickandMort2.e23f5d3eb65ab4c789b5.jpg",
-    "index.html": "/index.html",
-    "main.9e41b30c.css.map": "/static/css/main.9e41b30c.css.map",
-    "main.622ae771.js.map": "/static/js/main.622ae771.js.map",
-    "787.dba7b573.chunk.js.map": "/static/js/787.dba7b573.chunk.js.map"
+    "main.css": "/primera-app-bootstrap/static/css/main.9e41b30c.css",
+    "main.js": "/primera-app-bootstrap/static/js/main.77758b46.js",
+    "static/js/787.dba7b573.chunk.js": "/primera-app-bootstrap/static/js/787.dba7b573.chunk.js",
+    "static/media/RickandMortySearch.png": "/primera-app-bootstrap/static/media/RickandMortySearch.7a09bf640b554c394031.png",
+    "static/media/RickandMorty3.jpg": "/primera-app-bootstrap/static/media/RickandMorty3.1ace7ee9d3d959c7be2f.jpg",
+    "static/media/RickandMorty1.jpg": "/primera-app-bootstrap/static/media/RickandMorty1.2b0f427254e69c93e8e9.jpg",
+    "static/media/RickandMort2.jpg": "/primera-app-bootstrap/static/media/RickandMort2.e23f5d3eb65ab4c789b5.jpg",
+    "index.html": "/primera-app-bootstrap/index.html",
+    "main.9e41b30c.css.map": "/primera-app-bootstrap/static/css/main.9e41b30c.css.map",
+    "main.77758b46.js.map": "/primera-app-bootstrap/static/js/main.77758b46.js.map",
+    "787.dba7b573.chunk.js.map": "/primera-app-bootstrap/static/js/787.dba7b573.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e41b30c.css",
-    "static/js/main.622ae771.js"
+    "static/js/main.77758b46.js"
   ]
 }
