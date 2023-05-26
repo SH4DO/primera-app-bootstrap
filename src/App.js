@@ -13,7 +13,7 @@ function App() {
       <Menu/>
         <main className='text-bg-dark p-3'>
           <Routes>
-            <Route path="/" element = {<Home/>} />
+            <Route path="/primera-app-bootstrap" element = {<Home/>} />
             <Route path="/personajes" element = {<Personajes/>} />
             <Route path="/episodios" element = {<Episodios/>} />
             <Route path="/mundos" element = {<Mundos/>} />

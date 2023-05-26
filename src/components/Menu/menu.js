@@ -7,7 +7,7 @@ const menus = [
   {
     id: 1,
     text: "Home",
-    link: "/",
+    link: "/primera-app-bootstrap",
     icon: faHouse
   },{
     id: 2,

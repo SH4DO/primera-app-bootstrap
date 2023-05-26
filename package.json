@@ -2,7 +2,7 @@
   "name": "primera-app-bootstrap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://SH4DO.github.io/",
+  "homepage": "http://SH4DO.github.io/primera-app-bootstrap",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
